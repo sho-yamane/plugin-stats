@@ -5,7 +5,6 @@
 
 <script>
 import axios from 'axios'
-import Vue from 'vue'
 import PieChart from './components/PieChart'
 import {Pie} from 'vue-chartjs'
 
